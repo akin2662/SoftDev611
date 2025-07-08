@@ -1,4 +1,4 @@
-# GitHub Issue Insight Generatot
+# GitHub Issue Insight Generator
 
 The proejct was done as a requirement of for the course ENPM611 Software engineering at the University of Maryland. Some files from [Project Tempelate](https://github.com/enpm611/project-application-template.git) have been used which were specifically created for the project. The aim of the project is to implement an application that analyzes GitHub issues for the [poetry](https://github.com/python-poetry/poetry/issues) Open Source project and generates interesting insights.
 
